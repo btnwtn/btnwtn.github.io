@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://btnwtn.com/post/math-the-react-js-way/</loc>
+    <loc>https://btnwtn.com/post/math-the-react-js-way/</loc>
     <lastmod>2016-11-02T14:55:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://btnwtn.com/categories/</loc>
+    <loc>https://btnwtn.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://btnwtn.com/post/</loc>
+    <loc>https://btnwtn.com/post/</loc>
     <lastmod>2016-11-02T14:55:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://btnwtn.com/tags/</loc>
+    <loc>https://btnwtn.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://btnwtn.com/</loc>
+    <loc>https://btnwtn.com/</loc>
     <lastmod>2016-11-02T14:55:36-07:00</lastmod>
     <priority>0</priority>
   </url>
